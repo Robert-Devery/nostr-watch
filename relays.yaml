@@ -1,4 +1,5 @@
 relays:
+  - wss://hushvault.ie
   - was://nostr.pleb.network
   - wss://nostr.inosta.cc
   - wss://nostr.pleb.network
